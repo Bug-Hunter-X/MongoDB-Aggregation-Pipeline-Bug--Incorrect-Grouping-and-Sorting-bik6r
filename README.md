@@ -1,0 +1,2 @@
+# MongoDB Aggregation Pipeline Bug
+This repository demonstrates a common error in MongoDB aggregation pipelines resulting in unexpected results. The provided JavaScript code shows an aggregation pipeline that attempts to retrieve the top 10 most frequent values of a field. However, due to incorrect grouping or sorting, the results are inaccurate. The solution demonstrates the corrected pipeline.
